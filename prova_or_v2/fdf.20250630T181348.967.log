@@ -739,3 +739,84 @@ debug-folding              F     # default value
 Save.Overlap.Gradient              F     # default value
 Sonly              F     # default value
 UseDIISforDMExtrapolation              T     # default value
+UseSVDExperimental              F     # default value
+UseSVD              T     # default value
+Sonly              F     # default value
+#:list? Mesh.Sizes              F
+#:block? MeshSizes              F
+#:defined? MeshSizes              F
+XC.Use.BSC.CellXC              F     # default value
+Read-H-from-file              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+compute-forces              T     # default value
+debug-folding              F     # default value
+Save.Overlap.Gradient              F     # default value
+Sonly              F     # default value
+UseDIISforDMExtrapolation              T     # default value
+UseSVDExperimental              F     # default value
+UseSVD              T     # default value
+Sonly              F     # default value
+#:list? Mesh.Sizes              F
+#:block? MeshSizes              F
+#:defined? MeshSizes              F
+XC.Use.BSC.CellXC              F     # default value
+Read-H-from-file              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+compute-forces              T     # default value
+debug-folding              F     # default value
+Save.Overlap.Gradient              F     # default value
+Sonly              F     # default value
+UseDIISforDMExtrapolation              T     # default value
+UseSVDExperimental              F     # default value
+UseSVD              T     # default value
+Sonly              F     # default value
+#:list? Mesh.Sizes              F
+#:block? MeshSizes              F
+#:defined? MeshSizes              F
+XC.Use.BSC.CellXC              F     # default value
+Read-H-from-file              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
+compute-forces              T     # default value
+debug-folding              F     # default value
+Save.Overlap.Gradient              F     # default value
+Sonly              F     # default value
+UseDIISforDMExtrapolation              T     # default value
+UseSVDExperimental              F     # default value
+UseSVD              T     # default value
+Sonly              F     # default value
+#:list? Mesh.Sizes              F
+#:block? MeshSizes              F
+#:defined? MeshSizes              F
+XC.Use.BSC.CellXC              F     # default value
+Read-H-from-file              F     # default value
+timing-split-scf-steps              F     # default value
+timing-split-scf-steps              F     # default value
